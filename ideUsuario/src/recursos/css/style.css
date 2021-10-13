@@ -1,0 +1,81 @@
+.background {
+    -fx-background-color: #050505;
+}
+
+.background-panel {
+    -fx-background-color: #ffffff;
+    -fx-border-radius: 10px;
+    -fx-border-color:  #ffffff;
+    -fx-opacity: 0.90;
+    
+}
+#titleregistro{
+    -fx-font-family: "Century Gothic";
+    -fx-font-size: 34;
+    -fx-font-weight: bold;
+   
+    
+}
+.background-panelMenu1{
+    -fx-background-color: #bbbbfa;
+
+}
+.background-image{
+    -fx-background-image: url("../img/starbank.png");
+    -fx-background-repeat: no-repeat;
+}
+
+.background-image-logo{
+    -fx-background-image: url("../img/logo.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+}
+
+.background-image-back{
+    -fx-background-image: url("../img/back.png");
+    
+    -fx-background-repeat: no-repeat;
+}
+
+.button {
+    -fx-background-color: #bbbbfa;  
+    -fx-font-family:"Franklin Gothic Demi Cond";
+    -fx-font-size: 18;
+   
+    
+}
+
+.label{
+    -fx-font-family:System;
+    -fx-font-size: 15;
+}
+
+.button:hover {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #3D3D99;
+    -fx-border-radius: 5;
+    -fx-border-width: 3;
+    
+}
+
+.button:active {
+    -fx-background-color: #4848bd;
+    
+}
+
+.text-field {
+    -fx-background-color:#ffffff;
+}
+
+.paneRegistro{
+    -fx-font-size:15;
+    -fx-font-family: Franklin Gothic Demi;
+    -fx-background-color: #050505;
+}
+
+#atrasbtn{
+    -fx-background-image: url("../img/back.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: none;
+}
